@@ -1,8 +1,8 @@
-# Hi there, I'm Ricardo García Luengo 👋
+# Hi 👋! I'm Ricardo García Luengo 
 
 ## About Me
 
-I started my career as a **Digital Marketing Specialist** with a strong focus on **SEO**. During that time, I faced several challenges, particularly with **CMS optimization** (mainly WordPress) and **design limitations**. To overcome these, I decided to dive deeper into web development, completing a **Full-Stack Web Development Bootcamp**.
+I'm from Spain, I started my career as a **Digital Marketing Specialist** with a strong focus on **SEO**. During that time, I faced several challenges, particularly with **CMS optimization** (mainly WordPress) and **design limitations**. To overcome these, I decided to dive deeper into web development, completing a **Full-Stack Web Development Bootcamp**.
 
 Now, I work comfortably across both **Frontend** and **Backend** development. However, my experience in SEO continues to influence my work, and I apply those principles wherever possible.
 
