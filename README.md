@@ -11,8 +11,10 @@ Now, I work comfortably across both **Frontend** and **Backend** development. Ho
 I'm currently working on **Spot My Pet**, a web application focused on helping people track and find their pets. Although it's still a work in progress, you can check out the repo and follow the updates:
 
 - **Project**: [SpotMyPet](https://spotmypet.es)
-- **Frontend**: [GitHub Repo](https://github.com/RAGL90/Prj-Spot-My-Pet-Front) (its closed but you can request permissions to look)
-- **Backend**: [GitHub Repo](https://github.com/RAGL90/Prj-SpotiPet-Back)
+
+If you're interested in viewing the code for the **Frontend** and **Backend**, the repositories are currently private. Feel free to reach out to request access, and I will be happy to grant permissions for a closer look:
+- **Frontend Repo**: Access upon request
+- **Backend Repo**: Access upon request
 
 ## Tech Stack
 
